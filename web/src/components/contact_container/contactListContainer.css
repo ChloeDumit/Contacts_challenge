@@ -1,0 +1,42 @@
+.contact_container {
+	margin-top: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.title {
+	margin-top: 50px;
+	margin-left: 110px;
+}
+
+
+.button_header {
+	background-color: #ff7141;
+  border-radius: 5px;
+  width: 200px;
+  height: 40px;
+  font-size: 20px;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500px;
+  color: white;
+  float: right;
+	top: -50px;
+  right: 15px;
+  position: relative;
+	margin-right: 100px;
+	border: none;
+
+}
+
+.button_header:hover {
+  transform: scale(0.8, 0.8) !important;
+}
+
+.buttonLink {
+  color: #efefef;
+  text-decoration: none;
+}
+.buttonLink:hover {
+  transform: scale(0.8, 0.8) !important;
+  color: #efefef;
+}

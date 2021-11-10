@@ -1,0 +1,31 @@
+.header_style {
+  background-color: #efefef;
+  margin-right: 0px;
+  margin-left: 0px;
+  height: 100px;
+}
+
+.logo {
+  max-width: 70px;
+  margin-left: 15px;
+  margin-top: 5px;
+  margin-bottom: auto;
+  margin-right: auto;
+}
+
+
+.nav_bar_color {
+  background-color: #efefef;
+	margin-left: 80px;
+
+  
+}
+
+
+@media screen and (max-width: 990px) {
+  .button_header {
+    display: none;
+  }
+
+
+}
