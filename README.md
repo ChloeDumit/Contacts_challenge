@@ -14,6 +14,12 @@ Back End - Nodejs
 npm install
 npm start
 ```
+Initialice DB
+
+```bash
+knex migrate:latest
+```
+
 Front End - React
 
 ```bash
