@@ -14,7 +14,7 @@ Back End - Nodejs
 npm install
 npm start
 ```
-Initialice DB
+Initialize DB
 
 ```bash
 knex migrate:latest
